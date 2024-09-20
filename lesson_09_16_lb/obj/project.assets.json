@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_16_lb/lesson_09_16_lb.csproj",
+      "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_16_lb/lesson_09_16_lb.csproj",
       "projectName": "lesson_09_16_lb",
-      "projectPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_16_lb/lesson_09_16_lb.csproj",
+      "projectPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_16_lb/lesson_09_16_lb.csproj",
       "packagesPath": "/Users/ivanushachov/.nuget/packages/",
-      "outputPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_16_lb/obj/",
+      "outputPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_16_lb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivanushachov/.nuget/NuGet/NuGet.Config"

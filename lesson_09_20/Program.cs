@@ -47,7 +47,7 @@ class Program
         foreach (var thread in threads)
             thread.Start();
         
-        Thread.Sleep(10000);
+        Thread.Sleep(30000);
         _isStop = true;
     }
 

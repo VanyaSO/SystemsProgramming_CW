@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_18/lesson_09_18.csproj": {}
+    "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_18/lesson_09_18.csproj": {}
   },
   "projects": {
-    "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_18/lesson_09_18.csproj": {
+    "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_18/lesson_09_18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_18/lesson_09_18.csproj",
+        "projectUniqueName": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_18/lesson_09_18.csproj",
         "projectName": "lesson_09_18",
-        "projectPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_18/lesson_09_18.csproj",
+        "projectPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_18/lesson_09_18.csproj",
         "packagesPath": "/Users/ivanushachov/.nuget/packages/",
-        "outputPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/CWSystemsProgramming/lesson_09_18/obj/",
+        "outputPath": "/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_18/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivanushachov/.nuget/NuGet/NuGet.Config"
