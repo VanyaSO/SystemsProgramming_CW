@@ -33,7 +33,6 @@ class Program
             if (progressBars.Any(e => e >= 100))
             {
                 Console.WriteLine("\nГонка закончена!");
-                Console.ReadKey();
                 break;
             }
             
@@ -51,7 +50,7 @@ class Program
             Thread.Sleep(Random.Next(500, 1000));
             progressBar += Random.Next(1, 10);
             progressBars[horseIndex] = progressBar;
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
         }
     }
 }
