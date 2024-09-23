@@ -1,30 +1,55 @@
 ﻿using System.Diagnostics;
 
 namespace lesson_09_20;
+class Program
+{
+    private static Stopwatch _watch = new Stopwatch();
+    private static string _str;
+    private static bool _isStop = false;
+    static void Main()
+    {
+        _str = Console.ReadLine();
+        Thread thread = new Thread(() => Watcher());
+        thread.Start();
+        
+        _isStop = true;
+    }
 
+    static void Watcher()
+    {
+        while (!_isStop)
+        {
+            if (_str[_str.Length-1] == _str[_str.Length-2])
+                Console.WriteLine("Error");
+        }
+    }
+}
 
 
 // Реализуйте консольное игровое приложение "успел, не успел", где будет проверяться скорость реакции пользователя.
 // Программа должна подать сигнал пользователю в виде текста, и пользователю должен будет нажать кнопку на клавиатуре,
 // после нажатия пользователь должен увидеть, сколько миллисекунд ему потребовалось, чтобы нажать кнопку.
-class Program
-{
-    private static Stopwatch _watch = new Stopwatch();
-    static void Main()
-    {
-        Thread thread = new Thread(() => Signal());
-        thread.Start();
-    }
+// class Program
+// {
+//     private static Stopwatch _watch = new Stopwatch();
+//     static void Main()
+//     {
+//         Thread thread = new Thread(() => Signal());
+//         thread.Start();
+//     }
+//
+//     static void Signal()
+//     {
+//         Console.WriteLine("Click");
+//         _watch.Start();
+//         Console.ReadKey();
+//         _watch.Stop();
+//         
+//         Console.WriteLine(_watch);
+//     }
+// }
 
-    static void Signal()
-    {
-        Console.WriteLine("Click");
-        _watch.Start();
-        Console.ReadKey();
-        _watch.Stop();
-        Console.WriteLine(_watch);
-    }
-}
+
 // // Напишите программу, которая создает несколько потоков, каждый из которых моделирует работу клиента в банке.
 // // Каждый поток должен периодически совершать случайные операции (пополнение или снятие средств) на своем счете.
 // // Программа должна работать в течение заданного времени и выводить на экран текущее состояние счетов клиентов.

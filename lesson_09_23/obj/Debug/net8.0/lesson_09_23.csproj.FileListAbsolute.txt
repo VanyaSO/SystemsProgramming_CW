@@ -1,0 +1,15 @@
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/bin/Debug/net8.0/lesson_09_23
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/bin/Debug/net8.0/lesson_09_23.deps.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/bin/Debug/net8.0/lesson_09_23.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/bin/Debug/net8.0/lesson_09_23.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/bin/Debug/net8.0/lesson_09_23.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/refint/lesson_09_23.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/lesson_09_23.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_CW/lesson_09_23/obj/Debug/net8.0/ref/lesson_09_23.dll
